@@ -1,6 +1,6 @@
 # Given a binary tree as input return its level order traversal.
 
-
+# Big (o) notation is o(n) for both time and space
 # A node structure
 class TreeNode:
 
